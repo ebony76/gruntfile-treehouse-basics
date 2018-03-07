@@ -36,7 +36,7 @@ module.exports = function(grunt) {
           'css/styles.css' : 'src/scss/application.scss'
         }
       },
-    }
+    },
     watch: {
       js: {
         files: ['src/js/*.js'],
